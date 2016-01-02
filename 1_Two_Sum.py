@@ -1,5 +1,4 @@
 ''''
-
 1. Two Sum My Submissions Question
 
 Given an array of integers, find two numbers such that they add up to a specific target number.
@@ -10,7 +9,6 @@ You may assume that each input would have exactly one solution.
 
 Input: numbers={2, 7, 11, 15}, target=9
 Output: index1=1, index2=2
-
 '''
 def twoSum(self, nums, target):
         #return false if lenght of input array is 1 or less
